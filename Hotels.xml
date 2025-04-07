@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Hotels.xsd">
+  <!-- Example hotel from Figure 1 -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  
+  <!-- Added 10 real hotels -->
+  <Hotel Rating="4.5">
+    <Name>Hyatt Regency Phoenix</Name>
+    <Phone>602-252-1234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>122</Number>
+      <Street>North Second Street</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.7">
+    <Name>Arizona Biltmore</Name>
+    <Phone>602-955-6600</Phone>
+    <Phone>800-950-0086</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2400</Number>
+      <Street>East Missouri Avenue</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Sheraton Phoenix Downtown</Name>
+    <Phone>602-262-2500</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>340</Number>
+      <Street>North 3rd Street</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.3">
+    <Name>Renaissance Phoenix Downtown</Name>
+    <Phone>602-333-0000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>100</Number>
+      <Street>North 1st Street</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>The Phoenician</Name>
+    <Phone>480-941-8200</Phone>
+    <Phone>800-888-8234</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6000</Number>
+      <Street>East Camelback Road</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.8">
+    <Name>Royal Palms Resort and Spa</Name>
+    <Phone>602-840-3610</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>5200</Number>
+      <Street>East Camelback Road</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="3.9">
+    <Name>Hilton Garden Inn Phoenix Airport</Name>
+    <Phone>602-470-0500</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>3422</Number>
+      <Street>East Elwood Street</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85040</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel>
+    <Name>Kimpton Hotel Palomar Phoenix</Name>
+    <Phone>602-253-6633</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2</Number>
+      <Street>East Jefferson Street</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.1">
+    <Name>Cambria Hotel Phoenix Chandler</Name>
+    <Phone>480-899-2700</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>3165</Number>
+      <Street>West Frye Road</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85226</Zip>
+    </Address>
+  </Hotel>
+  
+  <Hotel Rating="4.6">
+    <Name>Courtyard by Marriott Tempe Downtown</Name>
+    <Phone>480-966-2800</Phone>
+    <Phone>800-321-2211</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>South Ash Avenue</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
