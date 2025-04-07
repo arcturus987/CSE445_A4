@@ -39,7 +39,4 @@
       <Zip>85016</Zip>
     </Address>
   </Hotel>
-  
-  <!-- Continue with other hotels -->
-  <!-- Make sure to fix the NearestAirport attribute name to NearstAirport -->
 </Hotels>
