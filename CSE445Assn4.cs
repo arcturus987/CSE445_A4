@@ -10,9 +10,9 @@ namespace ConsoleApp1
 {
     public class Program
     {
-        public static string xmlURL = "Your XML URL";
-        public static string xmlErrorURL = "Your Error XML URL";
-        public static string xsdURL = "Your XSD URL";
+        public static string xmlURL = "https://arcturus987.github.io/CSE445_A4/Hotels.xml";
+        public static string xmlErrorURL = "https://arcturus987.github.io/CSE445_A4/HotelsErrors.xml";
+        public static string xsdURL = "https://arcturus987.github.io/CSE445_A4/Hotels.xsd";
 
         public static void Main(string[] args)
         {
